@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQEdLkkGiIlWUw/profile-displaybackgroundimage-shrink_200_800/B56ZyU_VfiJQAU-/0/1772026158304?e=1784764800&v=beta&t=ux_xyscS_isZv0q5_CyYdfBljY7gApAh6-tq_cYTR3c" alt="banner" width="100%">
+  <img src="[https://media.licdn.com/dms/image/v2/D5616AQEdLkkGiIlWUw/profile-displaybackgroundimage-shrink_200_800/B56ZyU_VfiJQAU-/0/1772026158304?e=1784764800&v=beta&t=ux_xyscS_isZv0q5_CyYdfBljY7gApAh6-tq_cYTR3c](https://github.com/sarma02/raghuvarman/blob/main/image/main.png)" alt="banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm M. Raghuvarman</h1>
